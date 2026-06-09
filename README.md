@@ -70,14 +70,6 @@
 # GitHub Aktivite Grafiği
 ![GitHub Contribution Graph](https://ghchart.rshah.org/AtakanT0)
 
-### ✍️ Rastgele Yazılım Sözü
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-### 🔝 En Çok Katkı Sağlanan Depolar
-![](https://github-contributor-stats.vercel.app/api?username=AtakanT0&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 <br>
 
-  [![BuyMeACoffee](https://img.shields.io/badge/Bana%20Kahve%20Ismarla-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/SENIN_KULLANICI_ADIN) 
-  
   ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=AtakanT0&color=blueviolet&style=flat)
