@@ -9,9 +9,6 @@
 
 🔭 <b>Arka Plan (Backend) ve Veritabanı Yönetimi</b> üzerine çalışıyorum.<br>🌱 Şu sıralar <b>C++ ve MySQL</b> tabanlı sistemler geliştiriyorum.<br>💬 <b>Algoritmalar, Veri Yapıları ve Sistem Güvenilirliği</b> hakkında bana yazabilirsin.<br>⚡ Eğlenceli Bilgi: Kodlarım ilk denemede hatasız çalıştığında dünyanın en şanslı insanı gibi hissediyorum.
 
-## 🌐 Sosyal Medya & İletişim:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SENIN_LINKEDIN_ADRESIN/)  [![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atakan.eposta@gmail.com)  
-
 # 💻 Teknoloji Yığınım:
 <table align="center">
 <tr>
